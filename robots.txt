@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://nomad-dev-writer.github.io/sitemap.xml
