@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://nomad-dev-writer.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://nomad-dev-writer.github.io/about/</loc>
+        <lastmod>2024-08-19T09:55:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://nomad-dev-writer.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://nomad-dev-writer.github.io/blog/barge-east/</loc>
+        <lastmod>2025-03-10T11:11:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://nomad-dev-writer.github.io/blog/hello-word/</loc>
+        <lastmod>2024-08-26T10:20:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://nomad-dev-writer.github.io/blog/inis-cafe-first-visit/</loc>
+        <lastmod>2024-10-12T12:38:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://nomad-dev-writer.github.io/blog/le-roi-de-la-moule/</loc>
+        <lastmod>2024-11-17T13:27:00Z</lastmod>
+    </url>
+    <url>
+        <loc>https://nomad-dev-writer.github.io/blog/skosh/</loc>
+        <lastmod>2024-10-12T21:40:00Z</lastmod>
+    </url>
+</urlset>
